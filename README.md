@@ -1,1 +1,1 @@
-# jsms
+# datasciencecoursera
